@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zwnow
 - 👀 I’m interested in learning new stuffs and things!
-- 🌱 I’m currently learning development in ERP systems (currently in apprenticeship and working with Dynamics).
+- 🌱 I’m currently learning development in ERP systems (NAV/BC).
 - 📫 How to reach me svenotimm@gmail.com
 
 
