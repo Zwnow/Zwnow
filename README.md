@@ -11,19 +11,7 @@ During my **apprenticeship** I have learned the following development skills:
 | C# | We used C# for our projects in tech-school. I worked on learning C# in my time off too. |
 | SQL | We used SQL-Server for our school projects. |
 
-Additionally I have peeked into the following technologies in my time off:
-
-| Tech | Description |
-|------|-------------|
-| HTML | With HTTP stuff so I was able to get into web development. Originally learned while doing The Odin Project. |
-| CSS | Goes hand in hand with the above. |
-| Javascript | To be able to give websites more interactivity. |
-| React | The library I created my personal homepage with. |
-
-**Currently learning:**
-- More React functionality
-- Lua & Neovim
-- Rust
+Additionally I am learning a bit of web development in my time off.
 
 ## My goals:
 I want to become a skilled software developer and invest a lot of time to reach this goal. Ultimately I want to make a living off of my passion and my craft and want to look back at my work with pride.
