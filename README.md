@@ -5,7 +5,7 @@ In my time off I occasionally draw, tattoo or play some videogames with my frien
 
 During my **apprenticeship** I have learned the following development skills:
 
-| Term | Description |
+| Tech | Description |
 |------|-------------|
 | C/AL | Is the language that is used within the C/SIDE IDE that is used by Microsoft Dynamics NAV. I worked with NAV 18.|
 | C# | We used C# for our projects in tech-school. I worked on learning C# in my time off too. |
@@ -13,7 +13,7 @@ During my **apprenticeship** I have learned the following development skills:
 
 Additionally I have peeked into the following technologies in my time off:
 
-| Term | Description |
+| Tech | Description |
 |------|-------------|
 | HTML | With HTTP stuff so I was able to get into web development. Originally learned while doing The Odin Project. |
 | CSS | Goes hand in hand with the above. |
